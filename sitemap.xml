@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://venkateshportfolio.vercel.app/</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://venkateshportfolio.vercel.app/about</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://venkateshportfolio.vercel.app/services</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://venkateshportfolio.vercel.app/services/website-development</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://venkateshportfolio.vercel.app/services/web-applications</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://venkateshportfolio.vercel.app/services/mobile-applications</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://venkateshportfolio.vercel.app/services/custom-software</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://venkateshportfolio.vercel.app/services/software-consulting</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://venkateshportfolio.vercel.app/work</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://venkateshportfolio.vercel.app/work/retail-commerce-website</loc><lastmod>2026-10-19</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://venkateshportfolio.vercel.app/work/field-operations-app</loc><lastmod>2026-10-19</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://venkateshportfolio.vercel.app/work/client-portal</loc><lastmod>2026-10-19</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://venkateshportfolio.vercel.app/work/operations-software</loc><lastmod>2026-10-19</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://venkateshportfolio.vercel.app/work/product-modernization</loc><lastmod>2026-10-19</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://venkateshportfolio.vercel.app/work/hospitality-website</loc><lastmod>2026-10-19</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://venkateshportfolio.vercel.app/contact</loc><lastmod>2026-10-19</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://avenkatesh.vercel.app/</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://avenkatesh.vercel.app/about</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://avenkatesh.vercel.app/services</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://avenkatesh.vercel.app/services/website-development</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://avenkatesh.vercel.app/services/web-applications</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://avenkatesh.vercel.app/services/mobile-applications</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://avenkatesh.vercel.app/services/custom-software</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://avenkatesh.vercel.app/services/software-consulting</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://avenkatesh.vercel.app/work</loc><lastmod>2026-10-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://avenkatesh.vercel.app/work/retail-commerce-website</loc><lastmod>2026-10-19</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://avenkatesh.vercel.app/work/field-operations-app</loc><lastmod>2026-10-19</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://avenkatesh.vercel.app/work/client-portal</loc><lastmod>2026-10-19</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://avenkatesh.vercel.app/work/operations-software</loc><lastmod>2026-10-19</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://avenkatesh.vercel.app/work/product-modernization</loc><lastmod>2026-10-19</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://avenkatesh.vercel.app/work/hospitality-website</loc><lastmod>2026-10-19</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://avenkatesh.vercel.app/contact</loc><lastmod>2026-10-19</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
 </urlset>

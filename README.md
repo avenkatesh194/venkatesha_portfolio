@@ -5,7 +5,7 @@ Static HTML5 site. It deploys on Vercel’s free Hobby plan with no build step a
 ## Before you publish
 
 1. The contact address is `avenkatesh194@gmail.com`, set in `js/main.js`.
-2. Replace `https://venkateshportfolio.vercel.app` in every HTML file, `sitemap.xml`, and `robots.txt` with the real domain Vercel gives you (or your custom domain).
+2. The public site URL is `https://avenkatesh.vercel.app`. If you add a custom domain later, replace that address in the HTML files, `sitemap.xml`, `robots.txt`, and the form fields in `js/main.js`.
 3. Replace the anonymized project pages in `work/` with real engagements when you want those stories public.
 4. If you are not based in India, update that line in the page footers and the address country in the homepage structured data.
 

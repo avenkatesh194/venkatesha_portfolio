@@ -233,10 +233,13 @@
           email: data.get("email"),
           service: data.get("service"),
           message: data.get("message"),
-          _subject: "Project inquiry from " + data.get("name"),
+          site: "https://avenkatesh.vercel.app",
+          page: window.location.href,
+          _subject: "Project inquiry from " + data.get("name") + " — avenkatesh.vercel.app",
           _template: "table",
           _captcha: "false",
-          _replyto: data.get("email")
+          _replyto: data.get("email"),
+          _next: "https://avenkatesh.vercel.app/contact"
         })
       }).then(function (response) {
         return response.json().then(function (payload) {
