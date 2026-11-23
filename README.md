@@ -1,34 +1,28 @@
-# Venkatesh Arumugam — freelance portfolio
+# Venkatesh Arumugam — portfolio
 
-Static HTML5 site. It deploys on Vercel’s free Hobby plan with no build step and no paid services.
+Single-page HTML site for a senior software engineer and freelance developer. It deploys on Vercel’s free Hobby plan with no build step.
 
-## Before you publish
+Live site: `https://avenkatesh.vercel.app`
 
-1. The contact address is `avenkatesh194@gmail.com`, set in `js/main.js`.
-2. The public site URL is `https://avenkatesh.vercel.app`. If you add a custom domain later, replace that address in the HTML files, `sitemap.xml`, `robots.txt`, and the form fields in `js/main.js`.
-3. Replace the anonymized project pages in `work/` with real engagements when you want those stories public.
-4. If you are not based in India, update that line in the page footers and the address country in the homepage structured data.
+## Contact form
 
-## Deploy on Vercel for free
+The enquiry form posts from the page to `avenkatesh194@gmail.com` through FormSubmit. The first time, open the activation email and confirm the form. Nothing is stored on the website.
 
-1. Create a free account at [vercel.com](https://vercel.com).
-2. Push this folder to a Git repository (GitHub, GitLab, or Bitbucket).
-3. In Vercel, choose **Add New Project** and import that repository.
-4. Framework preset: **Other**. There is no build command and no install step.
-5. Deploy. The free Hobby plan is enough for this site.
+## Add a project
 
-Or, from this folder, after you install the Vercel CLI and log in:
+Copy an `<article class="project">` block in `index.html`. Add a link only when the URL is real. Do not add screenshots or metrics that are not on file.
 
-```bash
-npx vercel
-```
+## Still needs your input
 
-## Search
+The public LinkedIn page confirms the current role at SST Cloud Solutions and 10+ years of experience. These were not visible, so they are not on the page:
 
-The pages use semantic HTML, unique titles and descriptions, a sitemap, `robots.txt`, canonical URLs, and structured data. After deploy:
+- Earlier employers, titles, and dates
+- College name, degree, and specialization
+- GitHub profile URL
+- WhatsApp number
+- Resume PDF
+- Play Store or live links for NIRAI, LOCALHIRE, and MR.FSO
 
-1. Add the domain in [Google Search Console](https://search.google.com/search-console).
-2. Submit `sitemap.xml`.
-3. Ask clients and colleagues to link to the site from their own sites. Those links matter more than any tag in the HTML.
+## Deploy
 
-A new site will not immediately rank first for a broad search like “website development freelancers.” That result is competitive, and Google decides the order. The setup here is the legitimate on-page work. Rankings move with time, links, and a domain people recognize.
+Framework preset: **Other**. Leave the build command empty. Old paths such as `/about`, `/services`, `/work`, and `/contact` redirect to the matching section on the homepage.

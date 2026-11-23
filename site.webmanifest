@@ -1,11 +1,11 @@
 {
-  "name": "Venkatesh Arumugam — Freelance Software Engineer",
+  "name": "Venkatesh Arumugam — Senior Software Engineer",
   "short_name": "Venkatesh Arumugam",
-  "description": "Website development freelancer with 10+ years of experience across websites, web apps, mobile apps, custom software, and consulting.",
+  "description": "Senior software engineer and freelance developer. React.js, React Native, Node.js, and practical AI-powered applications.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#f3efe6",
-  "theme_color": "#1b4336",
+  "theme_color": "#07090f",
+  "background_color": "#07090f",
   "lang": "en",
   "icons": [
     {
